@@ -1,0 +1,56 @@
+VJ-123	VJ-1
+02/12/2021
+Tan Son Nhat Airport
+1
+1
+VJ-123-4	VJ-123
+079202031407
+Nguyen Minh Huy
+4
+19
+1   2   3   5   6   7   8   9   10   11   12   13   14   15   16   17   18   19   20   
+
+AA-789	AA-10
+03/12/2021
+Tan Son Nhat Airport
+3
+3
+AA-789-10	AA-789
+0123456789
+Tran Cong Binh
+10
+AA-789-1	AA-789
+014657434345
+Pham Quang Du
+1
+AA-789-2	AA-789
+111222330
+Le Thi Thanh Chuc
+2
+7
+3   4   5   6   7   8   9   
+
+VJ-456	VJ-1
+04/12/2021
+Noi Bai Airport
+2
+0
+5
+1   2   3   4   5   
+
+AA-1011	AA-10
+03/12/2021
+Noi Bai Airport
+0
+2
+AA-1011-2	AA-1011
+07941501202
+Nguyen Van A
+2
+AA-1011-10	AA-1011
+7894566123
+Nguyen Van B
+10
+8
+1   3   4   5   6   7   8   9   
+
